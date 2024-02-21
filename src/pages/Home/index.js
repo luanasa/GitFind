@@ -49,7 +49,6 @@ function App() {
                   <img
                     src={currentUser.avatar_url}
                     className="profile-img"
-                    alt="profile photo"
                   />
                   <div className="profile">
                     <h3>{currentUser.name}</h3>
